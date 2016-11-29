@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Swami_Assignment3">
+
+    <Resource name="jdbc/nbad" auth="Container" 
+        driverClassName="com.mysql.jdbc.Driver" 
+        url="jdbc:mysql://127.5.211.130:3306/nbad?autoReconnect=true" 
+        username="adminLv5HNRr" password="bvKZFLjg3Lbs" 
+        maxActive="100" maxIdle="30" maxWait="10000" 
+        logAbandoned="true" removeAbandoned="true" 
+        removeAbandonedTimeout="60" type="javax.sql.DataSource" />
+
+</Context>
